@@ -61,8 +61,8 @@ const option = JSON.parse(fs.readFileSync('./options/option.json'))
 const { ind } = require('./options/language')
 //const { eng } = require('./options/language')
 const {
-    botName,
-    ownerName,
+    botName, Serena
+    ownerName, Kartick Basak
     BarBarKey,
     ownerNumbers,
     languages
